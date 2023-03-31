@@ -114,5 +114,7 @@ These are collectively known as "look arounds" and they assert whether or not a 
 ## Author
 
 Tim Aspesberro
-GitHub Link: https://github.com/TimAspesberro/regex-tutorial
+GitHub Gist Link: https://gist.github.com/TimAspesberro/36edf51f41814296628ee8b68bf8efce
 
+(I made all my changes on this repository)
+GitHub Link: https://github.com/TimAspesberro/regex-tutorial
